@@ -22,7 +22,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<start-class>com.chirpn.rosterapp.RosterApplication</start-class>
+		<start-class>com.demo.rosterapp.RosterApplication</start-class>
 	</properties>
 	<dependencies>
 		<!--BIRT -->
